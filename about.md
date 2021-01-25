@@ -7,6 +7,7 @@ Many other features can be added to the text, including:
 - Headlines
 - Emojis
 - Mentions
+
 as well as ordered and unordered lists such as the one above.
 
 
