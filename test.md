@@ -52,3 +52,13 @@ Bold
 
 [ Choose ]
 `dragonfly`
+
+!(penguins.jpg)
+
+![Check out this COOL penguin!](/images/penguins.jpg)
+
+[penguin.jpg](Check out this COOL penguin)
+
+[Check out this COOL penguin!](/images/penguins.jpg)
+
+![penguin.jpg](Check out this COOL penguin)
