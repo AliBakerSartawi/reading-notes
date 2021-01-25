@@ -32,3 +32,23 @@
 (learn more)[http://wikipedia.com]
 
 <learn more::http://wikipedia.com>
+
+*dragonfly*
+
+Italics
+**dragonfly**
+
+Bold
+* dragonfly
+
+[ Choose ]
+> dragonfly
+
+[ Choose ]
+# dragonfly
+
+[ Choose ]
+& dragonfly
+
+[ Choose ]
+`dragonfly`
