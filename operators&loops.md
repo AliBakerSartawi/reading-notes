@@ -7,9 +7,9 @@ The operators include:
 - != not equal to
 - === strictly equal to... they have to match in amount and data type
 - !== strictly not equal to
-- > greater than
+- /> greater than
 - < less than
-- >= greater than or equal
+- />= greater than or equal
 - <= less than or equal
 
 ## Logical Operators
