@@ -7,9 +7,9 @@ The operators include:
 - != not equal to
 - === strictly equal to... they have to match in amount and data type
 - !== strictly not equal to
-- /> greater than
+- \> greater than
 - < less than
-- />= greater than or equal
+- \>= greater than or equal
 - <= less than or equal
 
 ## Logical Operators
@@ -29,4 +29,5 @@ Here is an example of && and ||
 
 The **For** loop will run a code for a number of specified times depending on the condition set.
 - an basic example would look like this: for (var i = 0; i < 10; i++)
+
 The **While** loop will run a code for as many times as the condition is **true**
