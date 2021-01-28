@@ -24,3 +24,9 @@ The operators are:
 Here is an example of && and ||
 - ((2 < 5) && (3 >= 2)) this returns true
 - ((2 < 5) || (2 < 1)) this returns true
+
+## Loops
+
+The **For** loop will run a code for a number of specified times depending on the condition set.
+- an basic example would look like this: for (var i = 0; i < 10; i++)
+The **While** loop will run a code for as many times as the condition is **true**
