@@ -30,6 +30,13 @@ header a {
 
 }
 
+h1 {
+    text-align: center;
+    margin: 40px 0px 0px 0px;
+    color: #036564;
+    font-size: 40px;
+}
+
 main h2 {
     text-align: center;
     margin: 40px 0px 40px 0px;

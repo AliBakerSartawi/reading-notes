@@ -21,15 +21,15 @@ a multi line
 comment*/
 
 function getName(){
-    var userName = prompt('enter your name');
-    console.log(userName);
+    var userName = prompt('Enter your name');
+    document.getElementById("helloUser").innerHTML="Hello " + userName;
 }
 
 getName()
 
-var getSum = function(a,b) {
-    return a + b;
-}
+// var getSum = function(a,b) {
+    // return a + b;
+// }
 
-var sum = getSum(10, 4);
-alert(sum);
+// var sum = getSum(10, 4);
+// alert(sum);
