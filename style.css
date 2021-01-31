@@ -13,7 +13,7 @@ header nav ul {
 }
 
 header nav ul li {
-    display:inline-block;
+    display:inline-block; padding: 20px;
 }
 
 header a {
@@ -27,8 +27,20 @@ header a {
     color: black;
 }
 
-/* class selector */
+main h2 {
+    text-align: center;
+    margin: 20px 0px 20px 0px;
+}
 
+#frontend {
+    text-align: center;
+}
+
+/* class selector */
+.paragraph {
+    color: crimson;
+    border: 1px solid rgb(100, 100, 100);
+}
 
 
 
