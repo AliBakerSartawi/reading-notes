@@ -5,40 +5,57 @@
 /* universal selector */
 * {
     margin: 0;
+    background-color: #CDB380;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 /* elemenet selector */
 header nav ul {
     list-style: none;
+    background-color: #036564;
 }
 
 header nav ul li {
-    display:inline-block; padding: 20px;
+    display:inline-block; padding: 20px; font-weight: 600;
 }
 
 header a {
-    color: #eeeeee;
+    color: #036564;
     text-decoration: none;
 }
 
 
 /* id selector */
 #home {
-    color: black;
+
 }
 
 main h2 {
     text-align: center;
-    margin: 20px 0px 20px 0px;
+    margin: 40px 0px 40px 0px;
+    color: #036564;
+    font-size: 30px;
 }
 
 #frontend {
     text-align: center;
 }
 
+#whatever {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 40px;
+    color: #036564;
+    text-align: center;
+}
+
+main div ul li {
+    list-style: none;
+}
+
 /* class selector */
 .paragraph {
-    color: crimson;
+    color: hsl(404, 95, 44,1)
     border: 1px solid rgb(100, 100, 100);
 }
 

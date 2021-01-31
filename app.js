@@ -16,3 +16,20 @@
 // }
 // funcName()
 
+/*this is
+a multi line
+comment*/
+
+function getName(){
+    var userName = prompt('enter your name');
+    console.log(userName);
+}
+
+getName()
+
+var getSum = function(a,b) {
+    return a + b;
+}
+
+var sum = getSum(10, 4);
+alert(sum);
