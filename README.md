@@ -18,7 +18,7 @@
 
 | Reading Assignments | Description |
 | ------------------- | ----------- |
-| 01                  | Introductory HTML and JavaScript |
+| 01                  | [Introductory HTML and JavaScript](https://alibakersartawi.github.io/reading-notes/class-01) |
 | 02                  | HTML Text, CSS Introduction, and Basic JavaScript Instructions |
 | 03                  | HTML Lists, CSS Boxes, JS Control Flow |
 | 04                  | HTML Links, CSS Layout, JS Functions |
