@@ -6,13 +6,13 @@
 | Reading Assignments | Description |
 | ------------------- | ----------- |
 | 01                  | The Coder's Computer        |
-| 02a                 | Learning Markdown |
-| 02b                 | Revisions and the Cloud |
-| 03                  | Structure web pages with HTML |
-| 04                  | Programming with Javascript |
-| 05                  | Operators and Loops |
-| 06a                 | Functions |
-| 06b                 | Design web pages with CSS |
+| 02a                 | [Learning Markdown](https://alibakersartawi.github.io/reading-notes/about) |
+| 02b                 | [Revisions and the Cloud](https://alibakersartawi.github.io/reading-notes/GitIntro) |
+| 03                  | [Structure web pages with HTML](https://alibakersartawi.github.io/reading-notes/html1) |
+| 04                  | [Programming with Javascript](https://alibakersartawi.github.io/reading-notes/javascript) |
+| 05                  | [Operators and Loops](https://alibakersartawi.github.io/reading-notes/operators&loops) |
+| 06a                 | [Functions](https://alibakersartawi.github.io/reading-notes/functions) |
+| 06b                 | [Design web pages with CSS](https://alibakersartawi.github.io/reading-notes/cssdesign) |
 
 ## Code 201 Reading Notes
 
