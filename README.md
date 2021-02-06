@@ -1,14 +1,39 @@
-## Growth Mindset
+# Reading Notes
 
-Time moves and never stops... trees grow and flowers flourish... we exist in this space and are bound by its rules... the rules of constant motion... *the growth mindset is when one realizes that the only limits we face are the ones we set for ourselves*...  
+Here are tables of reading assignments throughout the courses
 
-### How to maintain a constant mindset of growth
+## Code 102 Reading Notes
 
-A few **strategies** can be adopted:
+| Reading Assignments | Description |
+| ------------------- | ----------- |
+| 01                  | The Coder's Computer        |
+| 02a                 | Learning Markdown |
+| 02b                 | Revisions and the Cloud |
+| 03                  | Structure web pages with HTML |
+| 04                  | Programming with Javascript |
+| 05                  | Operators and Loops |
+| 06a                 | Functions |
+| 06b                 | Design web pages with CSS |
 
-1. [Remember that after pain, there is always gain](https://www.marylebonephysio.com/wp-content/uploads/2016/04/No-Pain-No-Gain.jpg)
-2. [Each mistake is nothing but a learning curve into more success](https://i.pinimg.com/736x/bd/1d/0a/bd1d0a463bf72d589e3b053aefe0b527--making-mistakes-learn-from-your-mistakes.jpg)
-3. [When criticized, consider it a form of feedback to further improve oneself](https://www.quotemaster.org/images/bc/bc2aef151dfd5ad60e072a7f64e058be.jpeg) 
+## Code 201 Reading Notes
+
+| Reading Assignments | Description |
+| ------------------- | ----------- |
+| 01                  | Introductory HTML and JavaScript |
+| 02                  | HTML Text, CSS Introduction, and Basic JavaScript Instructions |
+| 03                  | HTML Lists, CSS Boxes, JS Control Flow |
+| 04                  | HTML Links, CSS Layout, JS Functions |
+| 05                  | HTML Images; CSS Color & Text |
+| 06                  | JS Object Literals; The DOM |
+| 07                  | HTML Tables; JS Constructor Functions |
+| 08                  | More CSS Layout |
+| 09                  | Forms and Events |
+| 10                  | JS Debugging |
+| 11                  | Assorted Topics |
+| 12                  | Docs for the HTML (canvas) Element & Chart.js |
+| 13                  | Local Storage |
+| 14a                 | CSS Transforms, Transitions, and Animations |
+| 14b                 | What Google Learned About Teams |
 
 ### **by Ali Baker**
 pay me a visit on [GitHub](https://github.com/AliBakerSartawi)
