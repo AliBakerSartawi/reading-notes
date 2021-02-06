@@ -33,3 +33,9 @@ getName()
 
 // var sum = getSum(10, 4);
 // alert(sum);
+
+// This is how you make a comment in JavaScript
+var x = "Failing is just another word for learning.";
+var result = 8 * 3;
+variable a equals Welcome John Doe;
+var y = 3 + 4;
