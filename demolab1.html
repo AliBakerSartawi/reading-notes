@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Class 1 Lab</title>
+        <style>
+            * {
+                background-color: #E8DDCB;
+                margin: 0;
+            }
+
+            h1 {
+                color: #E8DDCB;
+                background-color: #031634;
+                text-align: center;
+                font-family: 'Courier New', Courier, monospace;
+                padding: 20px 0px 20px 0px;
+                margin-bottom: 20px;
+            }
+
+            p {
+                text-align: center;
+                font-family: 'Courier New', Courier, monospace;
+                font-size: larger;
+                font-weight: 600;
+                padding: 10px 0px 10px 0px;
+                margin-bottom: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <header></header>
+        <main>
+            <h1>Class 1 Lab</h1>
+            <p style="color: #031634; background-color: #CDB380;">What is your real name?</p>
+            <p style="color: #012938; background-color: #067e7c;">Describe yourself in one word</p>
+            <p style="color: #05a19f; background-color: #033649;">What is your favorite juice?</p>
+            <p style="color: #CDB380; background-color: #031634;">What is your favorite dish?</p>
+        </main>
+        <footer></footer>
+        <script>
+            let realName = prompt('What is your real name?');
+            alert('You are one step closer to knowing yourself, ' + realName + '!');
+            console.log('Real name ===>' , realName);
+            
+            let personality = prompt('Describe yourself in one word');
+            alert('Alright, ' + realName + '. You are ' + personality + '.');
+            console.log('Personality ===>' , personality);
+
+            let faveJuice = prompt('What is your favorite juice?');
+            alert(realName + ' the ' + personality + ', your ' + faveJuice + ' is ready!!');
+            console.log('Favorite Juice ===>' , faveJuice);
+
+            let faveFood = prompt('What about food... what is your favorite dish?');
+            alert('Well... even though you are ' + personality + ', ' + realName + ', we were trolling you... neither your ' + faveJuice + ' nor your ' + faveFood + ' is actually ready. We were simply collecting your info to target you with ads. HEHE!');
+            console.log('Favorite Food ===>' , faveFood);
+        </script>
+    </body>
+</html>
