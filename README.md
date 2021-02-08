@@ -14,6 +14,8 @@
 | 06a                 | [Functions](https://alibakersartawi.github.io/reading-notes/functions) |
 | 06b                 | [Design web pages with CSS](https://alibakersartawi.github.io/reading-notes/cssdesign) |
 
+---
+
 ## Code 201 Reading Notes
 
 | Reading Assignments | Description |
@@ -34,7 +36,11 @@
 | 14a                 | CSS Transforms, Transitions, and Animations |
 | 14b                 | What Google Learned About Teams |
 
+---
+
 ![Code Fellows](https://avatars.githubusercontent.com/u/3904529?s=280&v=4)
+
+---
 
 ### **by Ali Baker**
 pay me a visit on [GitHub](https://github.com/AliBakerSartawi)
