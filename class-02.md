@@ -26,7 +26,7 @@ When designing a website with multiple pages, keeping the **`CSS`** file separat
 
 ---
 
-## **`JavaScript`** Instruction
+## **`JavaScript`** Instructions
 
 Here is a list of instruction for **`JavaScript`** use:
 - Before using a `variable`, you have to announce that you want to use it by creating it... for example `var example = 3;`.

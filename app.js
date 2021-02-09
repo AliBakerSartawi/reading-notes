@@ -39,3 +39,25 @@ var x = "Failing is just another word for learning.";
 var result = 8 * 3;
 variable a equals Welcome John Doe;
 var y = 3 + 4;
+
+switch (key) {
+  case value:
+        
+    break;
+
+  default:
+    break;
+}
+
+for (let index = 0; index < array.length; index++) {
+    const element = array[index];
+    
+}
+
+while (condition) {
+    
+}
+
+do {
+    
+} while (condition);
