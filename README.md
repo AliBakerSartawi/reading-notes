@@ -24,7 +24,7 @@
 | 02                  | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://alibakersartawi.github.io/reading-notes/class-02) |
 | 03                  | [HTML Lists, CSS Boxes, JS Control Flow](https://alibakersartawi.github.io/reading-notes/class-03) |
 | 04                  | [HTML Links, CSS Layout, JS Functions](https://alibakersartawi.github.io/reading-notes/class-04) |
-| 05                  | HTML Images; CSS Color & Text |
+| 05                  | [HTML Images; CSS Color & Text](https://alibakersartawi.github.io/reading-notes/class-05) |
 | 06                  | JS Object Literals; The DOM |
 | 07                  | HTML Tables; JS Constructor Functions |
 | 08                  | More CSS Layout |
