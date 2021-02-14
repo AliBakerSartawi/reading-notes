@@ -130,5 +130,29 @@ id //gets or sets the value of the id attribute
 
 ---
 
+<!-- console logs for objects
+
+let students = {
+    name: 'zuhair',
+    age: 25,
+    isEnrolled: true,
+    classes: ['101', '102', '201'],
+    '1x': true,
+    'full name': 'test test',
+}
+let x = 'name';
+
+console.log(students.classes[0]);
+console.log(students[x]);
+console.log(students['name']);
+console.log(students['name']);
+console.log(students['1x']);
+console.log(students['full name']);
+console.log(typeof students);
+console.log(typeof []); //an array is an object
+console.log(Array.isArray([])); //a mtheod special for arrays
+console.log(Array.isArray(students)); //false because it is an object not an array
+ -->
+
 
 
