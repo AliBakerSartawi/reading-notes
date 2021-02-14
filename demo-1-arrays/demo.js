@@ -63,3 +63,55 @@ if (!attempts){
 
 }
 
+//helper function
+
+function getRandomNumber(min, max) {
+  return Math.floor(math.random() * (max - min + 1) + min);
+}
+
+const frankie = {
+  name: 'frankie',
+  age: 0,
+  likes: ['cuddling', 'chasing string', 'napping'],
+  isGoodWithKids: false, 
+  isGoodWithOtherCats: true,
+  isGoodWithDogs: false,
+  breed: 'British Short Hair',
+  imagePath: './images/frankie.jpeg',
+  getAge: function(min, max){
+    this.age = getRandomNumber(min, max); //to change properties inside an object we must use the contextual this
+  },
+  render: function () {
+    const container = document.getElementById('kitten-profiles');
+    console.log(container);
+    //we can copy the HTML text here for reference on how to deal with it
+    //1 create element
+    //2 append the element to its parent or container
+    //3 add text content to the element or attributes
+    const articleEl = document.createElement('article');
+    container.appendChild(articleEl);
+    
+    const h2El = document.createElement('h2');
+    articleEl.appendChild(h2El);
+    h2El.textContent = this.name //we can hardcode the name frankie or use this
+
+    const pEl = document.createElement('p');
+    articleEl.appendChild(pEl);
+    pEl.textContent = `${this.name} is adorable, and is ${this.age} months old.`; //interpolation method uses backticks
+
+    const ulEl = document.createElement('ul');
+    articleEl.appendChild(ulEl);
+    for (let i = 0; i < this.likes.length; i++) {
+      const liEl = document.createElement('li');
+      ulEl.appendChild(li);
+      liEl.textContent = this.likes[i];
+    }
+
+    const imgEl = document.createElement('img');
+    articleEl.appendChild(imgEl);
+    imgEl.setAttribute('src', this.imagePath);
+  },
+};
+
+console.log(frankie.getAge(3, 7));
+frankie.render();
