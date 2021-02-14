@@ -43,7 +43,7 @@ var roomsFree = hotel.checkAvailability();
 
 ---
 
-## Document `Object` Model, DOM
+## Document Object Model, DOM
 
 Many people refer to the **DOM** as **Application Programming Interface (API)**. In other words, user interface allows humans to communicate with programs, while **APIs** allow programs (and scripts) to communicate with each other.
 
