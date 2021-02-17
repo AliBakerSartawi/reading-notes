@@ -28,7 +28,7 @@
 | 06                  | [JS Object Literals; The DOM](https://alibakersartawi.github.io/reading-notes/class-06) |
 | 07                  | [HTML Tables; JS Constructor Functions](https://alibakersartawi.github.io/reading-notes/class-07) |
 | 08                  | [More CSS Layout](https://alibakersartawi.github.io/reading-notes/class-08) |
-| 09                  | Forms and Events |
+| 09                  | [Forms and Events](https://alibakersartawi.github.io/reading-notes/class-09) |
 | 10                  | JS Debugging |
 | 11                  | Assorted Topics |
 | 12                  | Docs for the HTML (canvas) Element & Chart.js |
