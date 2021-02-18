@@ -29,7 +29,7 @@
 | 07                  | [HTML Tables; JS Constructor Functions](https://alibakersartawi.github.io/reading-notes/class-07) |
 | 08                  | [More CSS Layout](https://alibakersartawi.github.io/reading-notes/class-08) |
 | 09                  | [Forms and Events](https://alibakersartawi.github.io/reading-notes/class-09) |
-| 10                  | JS Debugging |
+| 10                  | [JS Debugging](https://alibakersartawi.github.io/reading-notes/class-10) |
 | 11                  | Assorted Topics |
 | 12                  | Docs for the HTML (canvas) Element & Chart.js |
 | 13                  | Local Storage |
