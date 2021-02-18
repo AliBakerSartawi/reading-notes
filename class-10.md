@@ -71,3 +71,21 @@ userName = 'mahmoud';
 ```
 
 meaning that if `userName` is used before putting a value in it, we will see `undefined` in console... whereas if we use `let` or `const` we will get an error, which is better for debugging.
+
+With **hoisting**, not only `var`'s will go to the top, but also `function` declaration will be hoisted to the top with their values, but `function` expressions will be hoisted with a value of `undefined`.
+
+```javascript
+//function declaration
+//we can call this function before its declaration
+function sum(a,b){
+  return a +b;
+}
+
+//function expression
+//if we call this function before its position we will get an error because we are using let, if we use var with we will get undefined
+let avg = function(s,n){
+  return s/n;
+}
+```
+
+`console.log();` will mostly give us an extra `undefined` because `log` is a method for the object `console` and there is no `return` in `log` and will give us an extra `undefined` each time.
