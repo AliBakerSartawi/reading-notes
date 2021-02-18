@@ -54,3 +54,20 @@ So, the steps of debugging can be summed up to this:
 - use validation tools to find errors in your code, like jslint.com and jshint.com
 
 ---
+
+**hoisting**
+
+All `var`'s will go to the top of the code with a value of undefined.
+
+```javascript
+var userName = 'mahmoud';
+```
+
+this equals
+```javascript
+var userName;
+//code here
+userName = 'mahmoud';
+```
+
+meaning that if `userName` is used before putting a value in it, we will see `undefined` in console... whereas if we use `let` or `const` we will get an error, which is better for debugging.
