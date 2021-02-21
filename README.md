@@ -30,7 +30,7 @@
 | 08                  | [More CSS Layout](https://alibakersartawi.github.io/reading-notes/class-08) |
 | 09                  | [Forms and Events](https://alibakersartawi.github.io/reading-notes/class-09) |
 | 10                  | [JS Debugging](https://alibakersartawi.github.io/reading-notes/class-10) |
-| 11                  | Assorted Topics |
+| 11                  | [Assorted Topics](https://alibakersartawi.github.io/reading-notes/class-11) |
 | 12                  | Docs for the HTML (canvas) Element & Chart.js |
 | 13                  | Local Storage |
 | 14a                 | CSS Transforms, Transitions, and Animations |
