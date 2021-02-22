@@ -22,4 +22,4 @@ for (var i = 0; i < noCups; i++) {
 
 document.write(result);
 
-// control backslahsm makes a comment
+// control backslash makes a comment

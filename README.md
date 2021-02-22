@@ -31,7 +31,7 @@
 | 09                  | [Forms and Events](https://alibakersartawi.github.io/reading-notes/class-09) |
 | 10                  | [JS Debugging](https://alibakersartawi.github.io/reading-notes/class-10) |
 | 11                  | [Assorted Topics](https://alibakersartawi.github.io/reading-notes/class-11) |
-| 12                  | Docs for the HTML (canvas) Element & Chart.js |
+| 12                  | [Docs for the HTML (canvas) Element & Chart.js](https://alibakersartawi.github.io/reading-notes/class-12) |
 | 13                  | Local Storage |
 | 14a                 | CSS Transforms, Transitions, and Animations |
 | 14b                 | What Google Learned About Teams |
