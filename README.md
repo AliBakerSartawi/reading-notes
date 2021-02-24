@@ -33,8 +33,8 @@
 | 11                  | [Assorted Topics](https://alibakersartawi.github.io/reading-notes/class-11) |
 | 12                  | [Docs for the HTML (canvas) Element & Chart.js](https://alibakersartawi.github.io/reading-notes/class-12) |
 | 13                  | [Local Storage](https://alibakersartawi.github.io/reading-notes/class-13)|
-| 14a                 | CSS Transforms, Transitions, and Animations |
-| 14b                 | What Google Learned About Teams |
+| 14a                 | [CSS Transforms, Transitions, and Animations](https://alibakersartawi.github.io/reading-notes/class-14a) |
+| 14b                 | [What Google Learned About Teams](https://alibakersartawi.github.io/reading-notes/class-14b) |
 
 ---
 
