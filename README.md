@@ -1,3 +1,4 @@
+# Reading Notes
 
 **Here are tables of reading assignments throughout the courses**
 
