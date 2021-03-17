@@ -1,40 +1,64 @@
 
 **Here are tables of reading assignments throughout the courses**
 
-## Code 102 Reading Notes
+## Code 102 Intro to Software Development
 
 | Reading Assignments | Description |
 | ------------------- | ----------- |
 | 01                  | The Coder's Computer        |
-| 02a                 | [Learning Markdown](https://alibakersartawi.github.io/reading-notes/about) |
-| 02b                 | [Revisions and the Cloud](https://alibakersartawi.github.io/reading-notes/GitIntro) |
-| 03                  | [Structure web pages with HTML](https://alibakersartawi.github.io/reading-notes/html1) |
-| 04                  | [Programming with Javascript](https://alibakersartawi.github.io/reading-notes/javascript) |
-| 05                  | [Operators and Loops](https://alibakersartawi.github.io/reading-notes/operators&loops) |
-| 06a                 | [Functions](https://alibakersartawi.github.io/reading-notes/functions) |
-| 06b                 | [Design web pages with CSS](https://alibakersartawi.github.io/reading-notes/cssdesign) |
+| 02a                 | [Learning Markdown](https://alibakersartawi.github.io/reading-notes/102/about) |
+| 02b                 | [Revisions and the Cloud](https://alibakersartawi.github.io/reading-notes/102/GitIntro) |
+| 03                  | [Structure web pages with HTML](https://alibakersartawi.github.io/reading-notes/102/html1) |
+| 04                  | [Programming with Javascript](https://alibakersartawi.github.io/reading-notes/102/javascript) |
+| 05                  | [Operators and Loops](https://alibakersartawi.github.io/reading-notes/102/operators&loops) |
+| 06a                 | [Functions](https://alibakersartawi.github.io/reading-notes/102/functions) |
+| 06b                 | [Design web pages with CSS](https://alibakersartawi.github.io/reading-notes/102/cssdesign) |
 
 ---
 
-## Code 201 Reading Notes
+## Code 201 Foundations of Software Development
 
 | Reading Assignments | Description |
 | ------------------- | ----------- |
-| 01                  | [Introductory HTML and JavaScript](https://alibakersartawi.github.io/reading-notes/class-01) |
-| 02                  | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://alibakersartawi.github.io/reading-notes/class-02) |
-| 03                  | [HTML Lists, CSS Boxes, JS Control Flow](https://alibakersartawi.github.io/reading-notes/class-03) |
-| 04                  | [HTML Links, CSS Layout, JS Functions](https://alibakersartawi.github.io/reading-notes/class-04) |
-| 05                  | [HTML Images; CSS Color & Text](https://alibakersartawi.github.io/reading-notes/class-05) |
-| 06                  | [JS Object Literals; The DOM](https://alibakersartawi.github.io/reading-notes/class-06) |
-| 07                  | [HTML Tables; JS Constructor Functions](https://alibakersartawi.github.io/reading-notes/class-07) |
-| 08                  | [More CSS Layout](https://alibakersartawi.github.io/reading-notes/class-08) |
-| 09                  | [Forms and Events](https://alibakersartawi.github.io/reading-notes/class-09) |
-| 10                  | [JS Debugging](https://alibakersartawi.github.io/reading-notes/class-10) |
-| 11                  | [Assorted Topics](https://alibakersartawi.github.io/reading-notes/class-11) |
-| 12                  | [Docs for the HTML (canvas) Element & Chart.js](https://alibakersartawi.github.io/reading-notes/class-12) |
-| 13                  | [Local Storage](https://alibakersartawi.github.io/reading-notes/class-13)|
-| 14a                 | [CSS Transforms, Transitions, and Animations](https://alibakersartawi.github.io/reading-notes/class-14a) |
-| 14b                 | [What Google Learned About Teams](https://alibakersartawi.github.io/reading-notes/class-14b) |
+| 01                  | [Introductory HTML and JavaScript](https://alibakersartawi.github.io/reading-notes/201/class-01) |
+| 02                  | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://alibakersartawi.github.io/reading-notes/201/class-02) |
+| 03                  | [HTML Lists, CSS Boxes, JS Control Flow](https://alibakersartawi.github.io/reading-notes/201/class-03) |
+| 04                  | [HTML Links, CSS Layout, JS Functions](https://alibakersartawi.github.io/reading-notes/201/class-04) |
+| 05                  | [HTML Images; CSS Color & Text](https://alibakersartawi.github.io/reading-notes/201/class-05) |
+| 06                  | [JS Object Literals; The DOM](https://alibakersartawi.github.io/reading-notes/201/class-06) |
+| 07                  | [HTML Tables; JS Constructor Functions](https://alibakersartawi.github.io/reading-notes/201/class-07) |
+| 08                  | [More CSS Layout](https://alibakersartawi.github.io/reading-notes/201/class-08) |
+| 09                  | [Forms and Events](https://alibakersartawi.github.io/reading-notes/201/class-09) |
+| 10                  | [JS Debugging](https://alibakersartawi.github.io/reading-notes/201/class-10) |
+| 11                  | [Assorted Topics](https://alibakersartawi.github.io/reading-notes/201/class-11) |
+| 12                  | [Docs for the HTML (canvas) Element & Chart.js](https://alibakersartawi.github.io/reading-notes/201/class-12) |
+| 13                  | [Local Storage](https://alibakersartawi.github.io/reading-notes/201/class-13)|
+| 14a                 | [CSS Transforms, Transitions, and Animations](https://alibakersartawi.github.io/reading-notes/201/class-14a) |
+| 14b                 | [What Google Learned About Teams](https://alibakersartawi.github.io/reading-notes/201/class-14b) |
+
+---
+
+## Code 301 Intermediate Software Development
+
+| Reading Assignments | Description |
+| ------------------- | ----------- |
+| 01                  | reading |
+| 02                  | reading |
+| 03                  | reading |
+| 04                  | reading |
+| 05                  | reading |
+
+---
+
+## Code 401 Advanced Software Development
+
+| Reading Assignments | Description |
+| ------------------- | ----------- |
+| 01                  | reading |
+| 02                  | reading |
+| 03                  | reading |
+| 04                  | reading |
+| 05                  | reading |
 
 ---
 
