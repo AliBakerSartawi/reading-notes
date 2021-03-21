@@ -43,7 +43,7 @@
 
 | Reading Assignments | Description |
 | ------------------- | ----------- |
-| 01                  | reading |
+| 01                  | [SMACSS and Responsive Web Design](https://alibakersartawi.github.io/reading-notes/301/read-01) |
 | 02                  | reading |
 | 03                  | reading |
 | 04                  | reading |
