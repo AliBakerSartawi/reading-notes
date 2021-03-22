@@ -98,3 +98,15 @@ $('.button').on('click dblclick mouseover', function(nameOfEvent) {
 .stop(); //stops animation
 .animate();
 ```
+
+---
+
+## Pair Programming
+
+Why do pair programming?
+- *Greater efficiency*... sometimes, two eyes are better than one
+- *Engaged collaboration*... two minds are better than one.
+- *Learning from fellow students*... everyone has something new to offer to the table.
+- *Social skills*... introverts have to, you know, get out of the shell every once in a while.
+- *Job interview readiness*... they will test your pair programming skills... yikes!!!
+- *Work environment readiness*... like it or not, you are going to work in pairs... get used to it now!!
