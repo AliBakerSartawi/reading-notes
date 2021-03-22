@@ -44,7 +44,7 @@
 | Reading Assignments | Description |
 | ------------------- | ----------- |
 | 01                  | [SMACSS and Responsive Web Design](https://alibakersartawi.github.io/reading-notes/301/read-01) |
-| 02                  | reading |
+| 02                  | [jQuery, Events, and The DOM](https://alibakersartawi.github.io/reading-notes/301/read-02) |
 | 03                  | reading |
 | 04                  | reading |
 | 05                  | reading |
