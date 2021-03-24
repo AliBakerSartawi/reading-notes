@@ -20,6 +20,7 @@ Container Properties
 
   /* combinations */
   grid-template-columns: 50px 1fr 1fr 1fr 50px; /* first and last column 50px each, with three equal columns in the middle */
+  grid-template-columns: 50px auto 50px;
 
   /* shorthand */
   /* grid-template: rows / columns */
