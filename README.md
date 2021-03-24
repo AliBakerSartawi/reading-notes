@@ -46,7 +46,7 @@
 | 01                  | [SMACSS and Responsive Web Design](https://alibakersartawi.github.io/reading-notes/301/read-01) |
 | 02                  | [jQuery, Events, and The DOM](https://alibakersartawi.github.io/reading-notes/301/read-02) |
 | 03                  | [Flexbox and Mustache](https://alibakersartawi.github.io/reading-notes/301/read-03) |
-| 04                  | reading |
+| 04                  | [CSS GRID and Regex](https://alibakersartawi.github.io/reading-notes/301/read-03) |
 | 05                  | reading |
 
 ---
