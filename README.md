@@ -48,6 +48,7 @@
 | 03                  | [Flexbox and Mustache](https://alibakersartawi.github.io/reading-notes/301/read-03) |
 | 04                  | [CSS GRID and Regex](https://alibakersartawi.github.io/reading-notes/301/read-04) |
 | 05                  | [HEROKU](https://alibakersartawi.github.io/reading-notes/301/read-05) |
+| 00 *extra*          | [Array & String Methods](https://alibakersartawi.github.io/reading-notes/301/read-00) |
 
 ---
 
