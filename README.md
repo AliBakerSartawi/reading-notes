@@ -49,7 +49,8 @@
 | 04                  | [CSS GRID and Regex](https://alibakersartawi.github.io/reading-notes/301/read-04) |
 | 05                  | [HEROKU](https://alibakersartawi.github.io/reading-notes/301/read-05) |
 | 06                  | [NODE.JS](https://alibakersartawi.github.io/reading-notes/301/read-06) |
-| 00 *extra*          | [Array & String Methods](https://alibakersartawi.github.io/reading-notes/301/read-00) |
+| 01 *extra*          | [Array & String Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-01) |
+| 02 *extra*          | [Object Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-02) |
 
 ---
 
