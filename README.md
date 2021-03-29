@@ -52,6 +52,7 @@
 | 06                  | [REST & APIs](https://alibakersartawi.github.io/reading-notes/301/read-07) |
 | 01 *extra*          | [Array & String Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-01) |
 | 02 *extra*          | [Object Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-02) |
+| 03 *extra*          | [Object Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-03) |
 
 ---
 
