@@ -15,11 +15,11 @@ let person =
 
 console.log(person); 
 
-// for (const key in object) { //will loop for each key in the object
-//   console.log(key);
-//   console.log(person[key]);
-//   console.log(person['name']);
-// }
+for (const key in person) { //will loop for each key in the object
+  console.log(key);
+  console.log(person[key]);
+  console.log(person['name']);
+}
 
 
 //////// Object.keys
@@ -44,3 +44,4 @@ const entries = Object.entries(person);
 console.log(entries); //each key:value as an array, all in one array
 
 ```
+
