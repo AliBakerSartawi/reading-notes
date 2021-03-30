@@ -54,6 +54,7 @@
 | 01 *extra*          | [Array & String Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-01) |
 | 02 *extra*          | [Object Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-02) |
 | 03 *extra*          | [Map Method](https://alibakersartawi.github.io/reading-notes/301/extra-read-03) |
+| 04 *extra*          | [Filter Method](https://alibakersartawi.github.io/reading-notes/301/extra-read-04) |
 
 ---
 
