@@ -49,10 +49,11 @@
 | 04                  | [CSS GRID and Regex](https://alibakersartawi.github.io/reading-notes/301/read-04) |
 | 05                  | [HEROKU](https://alibakersartawi.github.io/reading-notes/301/read-05) |
 | 06                  | [NODE.JS](https://alibakersartawi.github.io/reading-notes/301/read-06) |
-| 06                  | [REST & APIs](https://alibakersartawi.github.io/reading-notes/301/read-07) |
+| 07                  | [REST & APIs](https://alibakersartawi.github.io/reading-notes/301/read-07) |
+| 08                  | [SQL](https://alibakersartawi.github.io/reading-notes/301/read-08) |
 | 01 *extra*          | [Array & String Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-01) |
 | 02 *extra*          | [Object Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-02) |
-| 03 *extra*          | [Object Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-03) |
+| 03 *extra*          | [Map Method](https://alibakersartawi.github.io/reading-notes/301/extra-read-03) |
 
 ---
 
