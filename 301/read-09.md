@@ -87,13 +87,83 @@ let numbers = [10, 9, 8, 2, 7, 5, 1, 3, 0];
 filterArray(3, numbers); // [2, 1, 0]
 ```
 
+---
 
+## Refactoring For Readability
 
+**Strategies**:
 
+- return early from functions
+```javascript
+function showProfile(user) {
+  if (user.authenticated === true) {
+    // ..
+  }
+}
+
+// Refactor into ->
+
+function showProfile(user) {
+  // People often inline such checks
+  if (user.authenticated === false) { return; }
+  // Stay at the function indentation level, plus less brackets
+}
+```
+
+- cache variable so functions can be read like sentences
+```javascript
+function searchGroups(name) {
+  for (let i = 0; i < continents.length; i++) {
+    for (let j = 0; j < continents[i].length; j++) {
+      for (let k = 0; k < continents[i][j].tags.length; k++) {
+        if (continents[i][j].tags[k] === name) {
+          return continents[i][j].id;
+        }
+      }
+    }
+  }
+}
+
+// Refactor into ->
+
+function searchGroups(name) {
+  for (let i = 0; i < continents.length; i++) {
+    const group = continents[i]; // This code becomes self-documenting
+    for (let j = 0; j < group.length; j++) {
+      const tags = group[j].tags;
+      for (let k = 0; k < tags.length; k++) {
+        if (tags[k] === name) {
+          return group[j].id; // The core of this nasty loop is clearer to read
+        }
+      }
+    }
+  }
+}
+```
+
+- check for web APIs before implementing your own functionality
+```javascript
+function cacheBust(url) {
+  return url.includes('?') === true ?
+    `${url}&time=${Date.now()}` :
+    `${url}?time=${Date.now()}`
+}
+
+// Refactor into ->
+
+function cacheBust(url) {
+  // This throws an error on invalid URL which stops undefined behaviour
+  const urlObj = new URL(url);
+  urlObj.searchParams.append('time', Date.now); // Easier to skim read
+  return url.toString();
+}
+```
+
+It's important to get your code right the first time because in many businesses there isn't much value in refactoring. Or at least, it's hard to convince stakeholders that eventually uncared for codebases will grind productivity to a halt.
 
 ---
 
 ### Links
 
 [Functional Programming](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
-[Refacting]
+[Refactoring For Readability](https://dev.to/healeycodes/refactoring-javascript-for-performance-and-readability-with-examples-1hec)
