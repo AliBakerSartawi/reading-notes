@@ -73,6 +73,7 @@ doubleOperator(subtraction, 3, 1); // 4
 - return a function as its result
 
 When a function relies on an argument passed by another we can use `this` like this
+
 ```javascript
 function smaller(number) {
   return number < this;
@@ -111,6 +112,7 @@ function showProfile(user) {
 ```
 
 - cache variable so functions can be read like sentences
+
 ```javascript
 function searchGroups(name) {
   for (let i = 0; i < continents.length; i++) {
@@ -142,6 +144,7 @@ function searchGroups(name) {
 ```
 
 - check for web APIs before implementing your own functionality
+
 ```javascript
 function cacheBust(url) {
   return url.includes('?') === true ?
