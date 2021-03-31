@@ -162,7 +162,9 @@ function cacheBust(url) {
 }
 ```
 
+```
 It's important to get your code right the first time because in many businesses there isn't much value in refactoring. Or at least, it's hard to convince stakeholders that eventually uncared for codebases will grind productivity to a halt.
+```
 
 ---
 
