@@ -52,6 +52,7 @@
 | 07                  | [REST & APIs](https://alibakersartawi.github.io/reading-notes/301/read-07) |
 | 08                  | [SQL](https://alibakersartawi.github.io/reading-notes/301/read-08) |
 | 09                  | [Refactoring and Functional Programming](https://alibakersartawi.github.io/reading-notes/301/read-09) |
+| 10                  | [The Call Stack & Debugging](https://alibakersartawi.github.io/reading-notes/301/read-10) |
 | 01 *extra*          | [Array & String Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-01) |
 | 02 *extra*          | [Object Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-02) |
 | 03 *extra*          | [Map Method](https://alibakersartawi.github.io/reading-notes/301/extra-read-03) |

@@ -27,7 +27,11 @@ This is what engineers are working on using **RESTful** web frameworks like **Ru
 ## API Links
 
 - [Geocoding](https://locationiq.com/)
+
 - [Weatherbit](https://www.weatherbit.io/)
+
 - [Yelp](https://www.yelp.com/developers/documentation/v3/business_search)
+
 - [The Movie DB](https://developers.themoviedb.org/3/getting-started/introduction)
+
 - [National Park](https://www.nps.gov/subjects/developer/api-documentation.htm)

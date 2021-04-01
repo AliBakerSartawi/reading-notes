@@ -34,7 +34,8 @@ Press `control+c` to exit logs.
 
 ---
 
-Links
+### Links
 - [Getting started on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs#view-logs)
+
 - [Deploying a Simple Blog to Heroku](https://howtonode.org/deploy-blog-to-heroku)
 

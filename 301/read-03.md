@@ -83,8 +83,11 @@ Creating a two column box
 
 ---
 
-Links
+### Links
 - [Templating with Mustache](https://1sherlynn.medium.com/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2)
+
 - [A guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 - [Flexbox Froggy](https://flexboxfroggy.com/)
+
 - [Mustache.js official documentation](https://github.com/janl/mustache.js)

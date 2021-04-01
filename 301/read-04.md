@@ -63,10 +63,15 @@ Content Properties
 
 ---
 
-Links
+### Links
 - [GRID GARDEN](https://cssgridgarden.com/)
+
 - [RegExr](https://regexr.com/)
+
 - [Regex Tutorial - cheat sheet](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
+
 - [Regex 101](https://regex101.com/)
+
 - [CSS GRID Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
 - [RWD With GRID](https://medium.com/samsung-internet-dev/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df)

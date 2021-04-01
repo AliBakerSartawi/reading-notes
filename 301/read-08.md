@@ -13,6 +13,9 @@ To retrieve data from a SQL database, we need to write **SELECT** statements, wh
 ## Links
 
 - [SQLBolt](https://sqlbolt.com/)
+
 - [w3schools Practice](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
+
 - [A Primer On SQL - Book](https://openlibra.com/en/book/a-primer-on-sql-3rd-edition)
+
 - [SQL Cheat Sheet](http://www.cheat-sheets.org/sites/sql.su/)
