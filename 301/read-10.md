@@ -34,8 +34,26 @@ foo.length = foo.length - 2 // (or foo.length - foo.length)
 foo // would log [] instead of [0, 0]
 ```
 
-**Type error** when 
+**Type error** when trying to use or access incompatible types of data... this is probably the most common error in **JS**.
+```javascript
+var foo = {}
+foo.bar // undefined
+foo.bar.baz // Uncaught TypeError: Cannot read property 'baz' of undefined
+```
 
+**How to debug???** Pay a visit to your `console.log`.
+
+**Breakpoints** can be achieved in browser developer tools, or by a `debugger` statement in the code.
+
+To see the **stack trace** at any given point in the code, write `console.trace()`.
+
+Using a `try {} catch {}` approach allows to *gracefully fallback* to a default state of the application, be it a `404` page or anything... it is still better than the page freezing altogether. 
+
+We could also write `try {} catch (error) {}` to `console.log` the error.
+
+**Runtime errors**: **JS** is not a compiled language like **Java** so your errors will happen at runtime, that means that you can only see whatever is wrong with your code after your run it.
+
+We could try [quokka](https://quokkajs.com/) to evaluate code as we type.
 
 ---
 
