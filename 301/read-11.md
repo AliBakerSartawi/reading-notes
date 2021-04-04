@@ -48,8 +48,8 @@ app.get('/', function(req, res) {
     foo: 'bar', // the second parameter of render is the local variables,
                 // this will inject (bar) into the (route) ejs file
     people: [
-      { name: 'dave' },
-      { name: 'jerry' },
+      { name: 'dave' },   // instead of writing the values here, they can be a variable
+      { name: 'jerry' },  // but the variable must be the value, not the key
     ];
   }); 
 });
