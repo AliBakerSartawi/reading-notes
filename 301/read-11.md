@@ -23,7 +23,7 @@ app.use(cors());
 // concatenate the current working directory (__dirname) with
 // a folder called views
 app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'ejs');
+app.set('view engine', 'ejs'); // we don't need to require ejs, we just need to set it as the view engine
 
 //// then we create a new folder called (views),
 //// inside of it we create a file (index.ejs)
