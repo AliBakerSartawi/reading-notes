@@ -165,6 +165,9 @@ function cacheBust(url) {
   return url.toString();
 }
 ```
+
+It's important to get your `code` right the first time because in many businesses there isn't much value in refactoring. Or at least, it's hard to convince stakeholders that eventually uncared for codebases will grind productivity to a halt.
+
 ---
 
 ### Links
@@ -172,7 +175,6 @@ function cacheBust(url) {
 [Functional Programming](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 
 [Refactoring For Readability](https://dev.to/healeycodes/refactoring-javascript-for-performance-and-readability-with-examples-1hec)
-```
-It's important to get your `code` right the first time because in many businesses there isn't much value in refactoring. Or at least, it's hard to convince stakeholders that eventually uncared for codebases will grind productivity to a halt.
+
 
 
