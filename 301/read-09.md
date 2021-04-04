@@ -15,6 +15,7 @@ When a function is pure it is easier to test without having to mock possibilitie
 **Immutable** data cannot be changed after its creation... instead of changing it, you create a new object with the new value. Usually a `for` loop is used for that.
 
 **Recursion** is when a function calls itself creating a `for` loop, as such...
+
 ```javascript
 let list = [1, 2, 3, 4, 5];
 let accumulator = 0;
@@ -35,6 +36,7 @@ accumulator; // 0
 This will allow iterating while keeping variables *immutable*.
 
 *Function composition or chaining* means that the result of each function will be used as input for the next function without modifying the original input
+
 ```javascript
 const string = " I will be a url slug   ";
 
@@ -58,6 +60,7 @@ Search more on **referential transparency** and **memoization**.
 - return it as result from other functions
 
 The idea is to treat functions like data. So, functions can be combined to create new functions... such as
+
 ```javascript
 const sum = (a, b) => a + b;
 const subtraction = (a, b) => a - b;
@@ -95,6 +98,7 @@ filterArray(3, numbers); // [2, 1, 0]
 **Strategies**:
 
 - return early from functions
+
 ```javascript
 function showProfile(user) {
   if (user.authenticated === true) {
