@@ -10,6 +10,30 @@ To retrieve data from a SQL database, we need to write **SELECT** statements, wh
 
 ---
 
+## Database Connecting Steps
+
+Install `pg` package.
+
+Require it.
+
+Create instance of it.
+
+Create `DATABASE_URL`.
+
+Inserting `schema` or `seed` file into local database 
+
+```
+psql -d database_name -f schema.sql /or/ seed.sql
+```
+
+It is okay if the `schema` or `seed` file is inside deeper directories and not in the root.
+
+---
+
+
+
+---
+
 ## Links
 
 - [SQLBolt](https://sqlbolt.com/)
