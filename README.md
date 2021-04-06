@@ -54,6 +54,8 @@
 | 09                  | [Refactoring and Functional Programming](https://alibakersartawi.github.io/reading-notes/301/read-09) |
 | 10                  | [The Call Stack & Debugging](https://alibakersartawi.github.io/reading-notes/301/read-10) |
 | 11                  | [EJS](https://alibakersartawi.github.io/reading-notes/301/read-11) |
+| 12                  | [Components/Partials (same as read-11)](https://alibakersartawi.github.io/reading-notes/301/read-11) |
+| 13                  | [Send & Retrieve Form Data](https://alibakersartawi.github.io/reading-notes/301/read-13) |
 | 01 *extra*          | [Array & String Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-01) |
 | 02 *extra*          | [Object Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-02) |
 | 03 *extra*          | [Map Method](https://alibakersartawi.github.io/reading-notes/301/extra-read-03) |
