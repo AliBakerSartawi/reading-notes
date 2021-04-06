@@ -55,12 +55,13 @@
 | 10                  | [The Call Stack & Debugging](https://alibakersartawi.github.io/reading-notes/301/read-10) |
 | 11                  | [EJS](https://alibakersartawi.github.io/reading-notes/301/read-11) |
 | 12                  | [Components/Partials (same as read-11)](https://alibakersartawi.github.io/reading-notes/301/read-11) |
-| 13                  | [Send & Retrieve Form Data](https://alibakersartawi.github.io/reading-notes/301/read-13) |
+| 13                  | [Send & Retrieve Form Data / Delete & Put](https://alibakersartawi.github.io/reading-notes/301/read-13) |
 | 01 *extra*          | [Array & String Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-01) |
 | 02 *extra*          | [Object Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-02) |
 | 03 *extra*          | [Map Method](https://alibakersartawi.github.io/reading-notes/301/extra-read-03) |
 | 04 *extra*          | [Filter Method](https://alibakersartawi.github.io/reading-notes/301/extra-read-04) |
 | 05 *extra*          | [Reduce Method](https://alibakersartawi.github.io/reading-notes/301/extra-read-05) |
+| 06 *extra*          | [String Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-06) |
 
 ---
 

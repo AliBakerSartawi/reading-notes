@@ -68,6 +68,32 @@ All data that comes to your server must be checked and sanitized. Always. No exc
 
 ---
 
+## Update and Delete
+
+We need to install:
+
+```
+npm i method-override
+```
+Then, require it like this `const methodOverride = require('method-override')`.
+
+And we define the reference or keyword `app.use(methodOverride('_method'));`. We can make this keyword anything, it doesn't matter.
+
+Inside the form's action attribute, we add the keyword with the desired HTTP method as a search query (preceded by ?).
+
+```html
+<form action="/task/update/<%= task.id %>?_method=PUT" method="POST">
+```
+
+```javascript
+app.put('/task/update/:id', updateTask);
+```
+
+In the update function, the data is in `query.body`, and we get the `id` with `query.params.id` or however it was specified in the route.
+
+
+---
+
 ### Links
 
 [Sending and Retrieving Form Data](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)
