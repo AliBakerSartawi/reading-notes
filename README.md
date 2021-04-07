@@ -56,6 +56,8 @@
 | 11                  | [EJS](https://alibakersartawi.github.io/reading-notes/301/read-11) |
 | 12                  | [Components/Partials (same as read-11)](https://alibakersartawi.github.io/reading-notes/301/read-11) |
 | 13                  | [Send & Retrieve Form Data / Delete & Put](https://alibakersartawi.github.io/reading-notes/301/read-13) |
+| 14a                 | [Database Normalization](https://alibakersartawi.github.io/reading-notes/301/read-14-a) |
+| 14b                 | [Database Normalization](https://alibakersartawi.github.io/reading-notes/301/read-14-b) |
 | 01 *extra*          | [Array & String Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-01) |
 | 02 *extra*          | [Object Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-02) |
 | 03 *extra*          | [Map Method](https://alibakersartawi.github.io/reading-notes/301/extra-read-03) |
