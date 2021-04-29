@@ -76,6 +76,7 @@
 | 03                  | reading |
 | 04                  | reading |
 | 05                  | reading |
+| 01 *extra-prep*          | [Prep: Event Loop, Classes, Callbacks, Promises, Async Await](https://alibakersartawi.github.io/reading-notes/401/extra-read-01) |
 
 ---
 
