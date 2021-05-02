@@ -1,4 +1,4 @@
-# TDD $ CI/CD
+# TDD & CI/CD
 
 ## TDD
 
