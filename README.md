@@ -71,12 +71,12 @@
 
 | Reading Assignments | Description |
 | ------------------- | ----------- |
-| 01                  | reading |
+| 01                  | [TDD, CI/CD](https://alibakersartawi.github.io/reading-notes/401/read-01) |
 | 02                  | reading |
 | 03                  | reading |
 | 04                  | reading |
 | 05                  | reading |
-| 01 *extra-prep*          | [Prep: Event Loop, Classes, Callbacks, Promises, Async Await](https://alibakersartawi.github.io/reading-notes/401/extra-read-01) |
+| 01 *extra-prep*     | [Prep: Event Loop, Classes, Callbacks, Promises, Async Await](https://alibakersartawi.github.io/reading-notes/401/extra-read-01) |
 
 ---
 
