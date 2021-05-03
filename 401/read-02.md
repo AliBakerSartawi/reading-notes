@@ -24,6 +24,8 @@ Also, another difference is that when you want to update a resource with **PUT**
 
 3- Compare and contrast **Swagger** and **APIDoc.js** Which HTTP status codes should be sent with each type of (un)successful API call?
 
+**Note**: In the requirements, this point connects Swagger and APIDoc.js in a comparison with their behavior regarding status error codes... they should be two separate points... anyway, for error codes, pay a kind visit to [this](https://www.restapitutorial.com/httpstatuscodes.html)
+
 *I searched this matter... this is what I found*:
 
 Regarding **Swagger**: Note that an API specification does not necessarily need to cover all possible HTTP response codes, since they may not be known in advance. However, it is expected to cover successful responses and any known errors. By "known errors" we mean, for example, a 404 Not Found response for an operation that returns a resource by ID, or a 400 Bad Request response in case of invalid operation parameters. [source](https://swagger.io/docs/specification/2-0/describing-responses/)
@@ -57,3 +59,21 @@ So it seems that **APIDoc.js** has a default error status code which can be edit
 **WRRC**: It is strange how hard it is to find the meaning of the **WRRC** acronym on the web, even though I know it is the **Web Request Response Cycle**... as the name suggests, it is the cycle of HTTP requests (get, post...) and the responses to them.
 
 *extra definition:* **NPM**: **Node Package Manager**, a subsidiary of **GitHub**... It is the world's largest software registry... its registry is a public database of **JavaScript** software... using the **CLI**, a human being, aka programmer, can install packages and tools to be used in ways unimaginable to non-programming human beings.  
+
+---
+
+## Useful Thingies
+
+[Intro to Node and Express](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
+
+[What Is NPM](https://docs.npmjs.com/getting-started/what-is-npm)
+
+[nodeJS docs](https://nodejs.org/en/docs/)
+
+[npm docs](https://docs.npmjs.com/)
+
+[express docs](https://expressjs.com/en/4x/api.html)
+
+[http status codes](https://www.restapitutorial.com/httpstatuscodes.html)
+
+[supertest](https://github.com/visionmedia/supertest)
