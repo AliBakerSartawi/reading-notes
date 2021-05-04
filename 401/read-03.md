@@ -42,11 +42,11 @@ This happens when a server tries to send more than one response to the client pe
 
 **Application Middleware**: Application-level-middleware are functions are bound to an instance of the app object by using `app.use` and `app.METHOD()` functions... these functions have no mount path and are executed every time the app receives a request.
 
-**Routing Middleware**: Router-level middleware works in the same way as application-level middleware, except it is bound to an instance of express.Router(). [source](http://expressjs.com/en/guide/using-middleware.html#middleware.application)
+**Routing Middleware**: Router-level middleware works in the same way as application-level middleware, except it is bound to an instance of `express.Router()`. [source](http://expressjs.com/en/guide/using-middleware.html#middleware.application)
 
 **Test Driven Development**: It is a software development approach where each functionality is tested and validated... failed tests should be re-written until they pass before proceeding with writing new code.
 
-**Behavioral Testing**: It is mainly focused on on the behavior of users rather than the technical functions of the software. [source](https://medium.com/@connecttokc/behaviour-driven-testing-in-node-js-using-mocha-chai-5e0c85258bbe)
+**Behavioral Testing**: It is mainly focused on the behavior of users rather than the technical functions of the software. [source](https://medium.com/@connecttokc/behaviour-driven-testing-in-node-js-using-mocha-chai-5e0c85258bbe)
 
 ---
 
