@@ -74,6 +74,7 @@
 | 01                  | [TDD, CI/CD](https://alibakersartawi.github.io/reading-notes/401/read-01) |
 | 02                  | [Express](https://alibakersartawi.github.io/reading-notes/401/read-02) |
 | 03                  | [Express REST API](https://alibakersartawi.github.io/reading-notes/401/read-03) |
+| 04                  | [Express REST API](https://alibakersartawi.github.io/reading-notes/401/read-04) |
 | 01 *extra-prep*     | [ES6 features, Eloquent JS, You Don't Know JS](https://alibakersartawi.github.io/reading-notes/401/extra-read-01) |
 | 02 *extra-prep*     | [Prep: Event Loop, Classes, Callbacks, Promises, Async Await](https://alibakersartawi.github.io/reading-notes/401/extra-read-02) |
 
