@@ -30,7 +30,7 @@
 
 ## Why REST?
 
-- Because of its flexibility.. it can handle multiple types of code and data formats... and is able to communicate between different services written in different languages
+- Because of its flexibility.. it can handle multiple types of calls and data formats... and is able to communicate between different services written in different languages
 
 ---
 
