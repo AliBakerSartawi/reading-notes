@@ -68,6 +68,8 @@
 - SQL databases are table based, while NoSQL databases are document, key-value, graph or wide-column stores.
 - SQL databases are better for multi-row transactions, NoSQL are better for unstructured data like documents or JSON.
 
+[source](https://www.xplenty.com/blog/the-sql-vs-nosql-difference/#:~:text=SQL%20databases%20are%20relational%2C%20NoSQL%20are%20non%2Drelational.&text=NoSQL%20databases%20have%20dynamic%20schemas,graph%20or%20wide%2Dcolumn%20stores.)
+
 ## Maybe Useful Links
 
 [sql vs nosql (Video)](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
