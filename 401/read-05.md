@@ -1,4 +1,4 @@
-# Linked Lists 
+# Linked Lists
 
 A linked list is similar to a low level array structure... each element in the list is called a node, and it can reference (has a pointer to) the next node in the list (singly list).
 
