@@ -77,6 +77,7 @@
 | 04                  | [Data Modeling](https://alibakersartawi.github.io/reading-notes/401/read-04) |
 | 05                  | [Linked Lists](https://alibakersartawi.github.io/reading-notes/401/read-05) |
 | 06                  | [Authentication & Singleton](https://alibakersartawi.github.io/reading-notes/401/read-06) |
+| 06                  | [Bearer Authorization](https://alibakersartawi.github.io/reading-notes/401/read-07) |
 | 01 *extra-prep*     | [ES6 features, Eloquent JS, You Don't Know JS](https://alibakersartawi.github.io/reading-notes/401/extra-read-01) |
 | 02 *extra-prep*     | [Prep: Event Loop, Classes, Callbacks, Promises, Async Await](https://alibakersartawi.github.io/reading-notes/401/extra-read-02) |
 
