@@ -28,7 +28,7 @@
 - The bearer is the holder of the token.
 
 **Secret**:
-- A string used as a key to **sign || verify** encrypted tokens. 
+- A string used as a key to **sign \|\| verify** encrypted tokens. 
 
 **JSON Web Token**:
 - It is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. [source](https://jwt.io/introduction)
