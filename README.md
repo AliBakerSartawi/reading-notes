@@ -43,6 +43,12 @@
 
 | Reading Assignments | Description |
 | ------------------- | ----------- |
+| 01 *extra*          | [Array & String Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-01) |
+| 02 *extra*          | [Object Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-02) |
+| 03 *extra*          | [Map Method](https://alibakersartawi.github.io/reading-notes/301/extra-read-03) |
+| 04 *extra*          | [Filter Method](https://alibakersartawi.github.io/reading-notes/301/extra-read-04) |
+| 05 *extra*          | [Reduce Method](https://alibakersartawi.github.io/reading-notes/301/extra-read-05) |
+| 06 *extra*          | [String Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-06) |
 | 01                  | [SMACSS and Responsive Web Design](https://alibakersartawi.github.io/reading-notes/301/read-01) |
 | 02                  | [jQuery, Events, and The DOM](https://alibakersartawi.github.io/reading-notes/301/read-02) |
 | 03                  | [Flexbox and Mustache](https://alibakersartawi.github.io/reading-notes/301/read-03) |
@@ -58,12 +64,6 @@
 | 13                  | [Send & Retrieve Form Data / Delete & Put](https://alibakersartawi.github.io/reading-notes/301/read-13) |
 | 14a                 | [Database Normalization](https://alibakersartawi.github.io/reading-notes/301/read-14-a) |
 | 14b                 | [Database Normalization](https://alibakersartawi.github.io/reading-notes/301/read-14-b) |
-| 01 *extra*          | [Array & String Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-01) |
-| 02 *extra*          | [Object Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-02) |
-| 03 *extra*          | [Map Method](https://alibakersartawi.github.io/reading-notes/301/extra-read-03) |
-| 04 *extra*          | [Filter Method](https://alibakersartawi.github.io/reading-notes/301/extra-read-04) |
-| 05 *extra*          | [Reduce Method](https://alibakersartawi.github.io/reading-notes/301/extra-read-05) |
-| 06 *extra*          | [String Methods](https://alibakersartawi.github.io/reading-notes/301/extra-read-06) |
 
 ---
 
@@ -71,6 +71,8 @@
 
 | Reading Assignments | Description |
 | ------------------- | ----------- |
+| 01 *extra-prep*     | [ES6 features, Eloquent JS, You Don't Know JS](https://alibakersartawi.github.io/reading-notes/401/extra-read-01) |
+| 02 *extra-prep*     | [Prep: Event Loop, Classes, Callbacks, Promises, Async Await](https://alibakersartawi.github.io/reading-notes/401/extra-read-02) |
 | 01                  | [TDD, CI/CD](https://alibakersartawi.github.io/reading-notes/401/read-01) |
 | 02                  | [Express](https://alibakersartawi.github.io/reading-notes/401/read-02) |
 | 03                  | [Express REST API](https://alibakersartawi.github.io/reading-notes/401/read-03) |
@@ -79,8 +81,7 @@
 | 06                  | [Authentication & Singleton](https://alibakersartawi.github.io/reading-notes/401/read-06) |
 | 07                  | [Bearer Authorization](https://alibakersartawi.github.io/reading-notes/401/read-07) |
 | 08                  | [ACL - Access Control List](https://alibakersartawi.github.io/reading-notes/401/read-08) |
-| 01 *extra-prep*     | [ES6 features, Eloquent JS, You Don't Know JS](https://alibakersartawi.github.io/reading-notes/401/extra-read-01) |
-| 02 *extra-prep*     | [Prep: Event Loop, Classes, Callbacks, Promises, Async Await](https://alibakersartawi.github.io/reading-notes/401/extra-read-02) |
+| 09                  | [OAuth](https://alibakersartawi.github.io/reading-notes/401/read-09) |
 
 ---
 
