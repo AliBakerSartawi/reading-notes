@@ -36,7 +36,7 @@ class Stack {
   }
 
   pop(element) {
-    if (this.isEmpty()) return 'exception';
+    if (this.isEmpty()) throw new Error('Cannot pop empty stack');
 
     let removed = this.storage[this.size];
     delete this.storage[this.size];
@@ -45,7 +45,10 @@ class Stack {
   }
 
   peek() { // return the top
-    return this.isEmpty() ? 'exception' : this.storage[this.size];
+    if (this.isEmpty()) {
+      throw new Error('Cannot peek empty stack');
+    }
+    return this.storage[this.size];
   }
 
   isEmpty() {
@@ -91,7 +94,7 @@ class Queue {
   }
 
   dequeue(element) {
-    if (this.isEmpty()) return 'exception'
+    if (this.isEmpty()) throw new Error('Cannot dequeue empty queue')
 
     let removed = this.storage[this.head]
     delete this.storage[this.head]
@@ -100,7 +103,10 @@ class Queue {
   }
 
   peek() {
-    return this.isEmpty() ? 'exception' : this.storage[this.head]
+    if (this.isEmpty()) {
+      throw new Error('Cannot peek empty queue')
+    } 
+    return this.storage[this.head]
   }
 
   isEmpty() {
