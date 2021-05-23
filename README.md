@@ -83,6 +83,7 @@
 | 08                  | [ACL - Access Control List](https://alibakersartawi.github.io/reading-notes/401/read-08) |
 | 09                  | [OAuth](https://alibakersartawi.github.io/reading-notes/401/read-09) |
 | 10                  | [Stacks & Queues](https://alibakersartawi.github.io/reading-notes/401/read-10) |
+| 11                  | [Event Driven Applications](https://alibakersartawi.github.io/reading-notes/401/read-11) |
 
 ---
 
