@@ -87,6 +87,16 @@
 
 ---
 
+## Computer Setup
+
+| #                   | Description |
+| ------------------- | ----------- |
+| 1                   | [201](https://codefellows.github.io/setup-guide/) |
+| 2                   | [301](https://codefellows.github.io/setup-guide/code-301/) |
+| 3                   | [401 - JS](https://codefellows.github.io/setup-guide/code-401-javascript/) |
+
+---
+
 ![Code Fellows](https://avatars.githubusercontent.com/u/3904529?s=280&v=4)
 
 ---
