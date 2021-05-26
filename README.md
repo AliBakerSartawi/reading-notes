@@ -85,6 +85,7 @@
 | 10                  | [Stacks & Queues](https://alibakersartawi.github.io/reading-notes/401/read-10) |
 | 11                  | [Event Driven Applications](https://alibakersartawi.github.io/reading-notes/401/read-11) |
 | 12                  | [Socket.io](https://alibakersartawi.github.io/reading-notes/401/read-12) |
+| 13                  | [Message Queues](https://alibakersartawi.github.io/reading-notes/401/read-13) |
 
 ---
 
