@@ -1,4 +1,4 @@
-# Trees
+# Trees 🌳🌳🌳
 
 - Unlike `arrays` and `linked lists` which are linear data structures, `trees` are hierarchial or non-linear.
   - Each element in the tree is called a `node`, which has a `value` and a `pointer` to the next node.
