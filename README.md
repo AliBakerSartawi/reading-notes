@@ -89,6 +89,7 @@
 | 14                  | [Event Driven Architecture](https://alibakersartawi.github.io/reading-notes/401/read-14) |
 | 15                  | [Trees](https://alibakersartawi.github.io/reading-notes/401/read-15) |
 | 16                  | [AWS - Cloud Server](https://alibakersartawi.github.io/reading-notes/401/read-16) |
+| 17                  | [AWS - S3 & Lambda](https://alibakersartawi.github.io/reading-notes/401/read-17) |
 
 ---
 

@@ -1,4 +1,4 @@
-# AWS - Cloud ☁️ Servers 
+# AWS - Cloud ☁️ Servers
 
 - **Describe the Web-Request-Response-Cycle**
   - Client makes a request
