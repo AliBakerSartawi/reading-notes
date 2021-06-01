@@ -90,6 +90,7 @@
 | 15                  | [Trees](https://alibakersartawi.github.io/reading-notes/401/read-15) |
 | 16                  | [AWS - Cloud Server](https://alibakersartawi.github.io/reading-notes/401/read-16) |
 | 17                  | [AWS - S3 & Lambda](https://alibakersartawi.github.io/reading-notes/401/read-17) |
+| 18                  | [AWS - API, Dynamo & Lambda](https://alibakersartawi.github.io/reading-notes/401/read-18) |
 
 ---
 
