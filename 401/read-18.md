@@ -37,4 +37,3 @@
 - [AWS DynamoDB](https://aws.amazon.com/dynamodb/)
 
 - [Dynamoose](https://dynamoosejs.com/getting_started/Introduction/)
-
