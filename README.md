@@ -92,6 +92,7 @@
 | 17                  | [AWS - S3 & Lambda](https://alibakersartawi.github.io/reading-notes/401/read-17) |
 | 18                  | [AWS - API, Dynamo & Lambda](https://alibakersartawi.github.io/reading-notes/401/read-18) |
 | 19                  | [AWS - Events](https://alibakersartawi.github.io/reading-notes/401/read-19) |
+| 26                  | [Component Based UI](https://alibakersartawi.github.io/reading-notes/401/read-26) |
 
 ---
 
