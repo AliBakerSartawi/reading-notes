@@ -94,6 +94,7 @@
 | 19                  | [AWS - Events](https://alibakersartawi.github.io/reading-notes/401/read-19) |
 | 26                  | [Component Based UI](https://alibakersartawi.github.io/reading-notes/401/read-26) |
 | 27                  | [Props and State](https://alibakersartawi.github.io/reading-notes/401/read-27) |
+| 28                  | [Component Composition](https://alibakersartawi.github.io/reading-notes/401/read-28) |
 
 ---
 
