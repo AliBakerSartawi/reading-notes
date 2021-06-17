@@ -21,7 +21,11 @@
 
 ```javascript
 const hash = (key, size) => {
-  let hashedKey = key.charCodeAt(key.length)
+  let hashedKey = 0
+
+  for (let i = 0; i < key.length; i++) {
+    hashedKey += key.charCodeAt(i)
+  }
 
   return hashedKey % size
 }
