@@ -38,6 +38,8 @@
 
 ## Resources
 
+- **[React Router Documentation With Amazing Examples!!!!](https://reactrouter.com/web/api/Link)**
+
 - [browser router tutorial](https://blog.pshrmn.com/entry/simple-react-router-v4-tutorial/)
 
 - **[router detailed tutorial](https://learnwithparam.com/blog/different-types-of-router-in-react-router/)**
