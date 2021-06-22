@@ -99,6 +99,7 @@
 | 30                  | [Hash Tables](https://alibakersartawi.github.io/reading-notes/401/read-30) |
 | 31                  | [Hooks API](https://alibakersartawi.github.io/reading-notes/401/read-31) |
 | 32                  | [Custom Hooks](https://alibakersartawi.github.io/reading-notes/401/read-32) |
+| 33                  | [Context API](https://alibakersartawi.github.io/reading-notes/401/read-33) |
 
 ---
 
