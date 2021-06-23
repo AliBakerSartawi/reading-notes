@@ -100,6 +100,7 @@
 | 31                  | [Hooks API](https://alibakersartawi.github.io/reading-notes/401/read-31) |
 | 32                  | [Custom Hooks](https://alibakersartawi.github.io/reading-notes/401/read-32) |
 | 33                  | [Context API](https://alibakersartawi.github.io/reading-notes/401/read-33) |
+| 34                  | [`<Login />` & `<Auth />`](https://alibakersartawi.github.io/reading-notes/401/read-34) |
 
 ---
 
