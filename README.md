@@ -102,6 +102,7 @@
 | 33                  | [Context API](https://alibakersartawi.github.io/reading-notes/401/read-33) |
 | 34                  | [`<Login />` & `<Auth />`](https://alibakersartawi.github.io/reading-notes/401/read-34) |
 | 35                  | [Graph](https://alibakersartawi.github.io/reading-notes/401/read-35) |
+| 36                  | [Redux](https://alibakersartawi.github.io/reading-notes/401/read-36) |
 
 ---
 
