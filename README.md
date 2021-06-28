@@ -103,6 +103,7 @@
 | 34                  | [`<Login />` & `<Auth />`](https://alibakersartawi.github.io/reading-notes/401/read-34) |
 | 35                  | [Graph](https://alibakersartawi.github.io/reading-notes/401/read-35) |
 | 36                  | [Redux](https://alibakersartawi.github.io/reading-notes/401/read-36) |
+| 37                  | [Combined Reducers](https://alibakersartawi.github.io/reading-notes/401/read-37) |
 
 ---
 
