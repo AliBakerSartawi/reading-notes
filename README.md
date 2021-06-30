@@ -105,6 +105,7 @@
 | 36                  | [Redux](https://alibakersartawi.github.io/reading-notes/401/read-36) |
 | 37                  | [Combined Reducers](https://alibakersartawi.github.io/reading-notes/401/read-37) |
 | 38                  | [Async Redux Actions](https://alibakersartawi.github.io/reading-notes/401/read-38) |
+| 39                  | [Redux Toolkit](https://alibakersartawi.github.io/reading-notes/401/read-39) |
 
 ---
 
