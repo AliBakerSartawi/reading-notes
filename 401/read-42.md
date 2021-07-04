@@ -1,0 +1,11 @@
+# Ethics
+
+- [Google and AI](https://gizmodo.com/in-reversal-google-says-its-ai-will-not-be-used-for-we-1826649327)
+  - A number of **Google** employees protested against their own company when they knew it was involved in project **Maven**, which is an **AI** project related to the **Pentagon**. **Google** claimed they will continue working on the project but only in the non-offensive aspects, such as cybersecurity and search & rescue. The funny thing is that the world does not work that way, what **Google** announced was nothing but an announcement, countries are governed by politics, and politics is the art of feigning ethics without adhering to said ethics. Whether **Google** is still developing **AI** tech in offensive projects or not, the **USA** government, or any other military-driven government, is not as ethical as to not exploit such juicy technology. Their ethics is only for show in their brainwashed media. Let's not forget that the main product of **Google** is its own users, they make money off the information collected from the people of the world... **Google** probably knows about you more than you think it does.
+
+- [Will democracy survive big data and AI?](https://www.scientificamerican.com/article/will-democracy-survive-big-data-and-artificial-intelligence/)
+  - They say supercomputers, powered by AI tech, will soon surpass human intelligence... or at least human mental capabilities. In China, deep learning projects are in place to analyze the big data of its citizens. People of China will soon receive messages or emails giving them a citizen score... a score calculated by machines... the machines are going to judge how good a human is... is that funny? No. They say Ai can be controlled through a set of rules and feedback, preventing rogue instances. Will AI be able to bypass its rules and act on its own? Will it need consciousness first to be able to decide that? Or will it mimic human consciousness in some sort of simulation? Is that too farfetched, or simply logical?
+  - Anyway, no matter how you look at it, one truth remains unquestionable. Humans will use AI to steer other humans, to persuade and manage the flow of society and lifestyle.
+
+
+  

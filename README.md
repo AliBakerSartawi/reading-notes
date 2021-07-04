@@ -107,6 +107,7 @@
 | 38                  | [Async Redux Actions](https://alibakersartawi.github.io/reading-notes/401/read-38) |
 | 39                  | [Redux Toolkit](https://alibakersartawi.github.io/reading-notes/401/read-39) |
 | 41                  | [React Native](https://alibakersartawi.github.io/reading-notes/401/read-41) |
+| 42                  | [Ethics](https://alibakersartawi.github.io/reading-notes/401/read-42) |
 
 ---
 
